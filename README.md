@@ -49,5 +49,5 @@ pip install opencv-python
 下载预训练的 VGG19 [模型](https://github.com/foamliu/Neural-Style-Transfer/releases/download/v1.0/imagenet-vgg-verydeep-19.mat) 放入 `pretrained-model` 目录，然后执行：
 
 ```bash
-$ python demo.py
+$ python main.py
 ```
